@@ -1,0 +1,11 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'SimulatorFolder_Example', :exclusive => true do
+  pod 'SimulatorFolder', :path => '../'
+end
+
+target 'SimulatorFolder_Tests', :exclusive => true do
+  pod 'SimulatorFolder', :path => '../'
+
+  
+end

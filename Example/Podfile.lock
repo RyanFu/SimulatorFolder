@@ -1,0 +1,14 @@
+PODS:
+  - SimulatorFolder (0.1.0)
+
+DEPENDENCIES:
+  - SimulatorFolder (from `../`)
+
+EXTERNAL SOURCES:
+  SimulatorFolder:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SimulatorFolder: a114d6cc90392c84ae0279ec3e8b46cc17fc7b33
+
+COCOAPODS: 0.39.0
